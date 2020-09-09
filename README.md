@@ -1,1 +1,1 @@
-# rsschool-cv
+#https://Hotinec.github.io/rsschool-cv/cv
