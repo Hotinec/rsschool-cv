@@ -1,1 +1,1 @@
-# https://Hotinec.github.io/rsschool-cv/cv
+# Hotinec Artiom cv
