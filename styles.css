@@ -136,7 +136,7 @@ a {
 
 .img-wrap {
   display: inline-block;
-  margin: 0 55px;
+  margin-right: 50px;
 }
 
 .avatar {
@@ -212,8 +212,54 @@ a {
 	background: url('./img/feather_icon.png') 9px  center no-repeat;
 }
 
-/* Examples */
+/* Experience */
+.experience .experience-item {
+  padding: 0 0 0 76px;
+	margin-bottom: 20px;
+}
 
+.experience .experience-item:last-child {
+  margin-bottom: 0;
+}
+
+.place {
+  font-size: 16px;
+}
+
+.period {
+  font-size: 15px;
+  line-height: 1;
+}
+
+.experience-item.icon-work {
+  background: url('./img/bag.png') 9px center no-repeat;
+}
+
+/* Education */
+.education .education-item {
+  padding: 0 0 0 76px;
+	margin-bottom: 20px;
+}
+
+.education .education-item:last-child {
+  margin-bottom: 0;
+}
+
+.education-item.icon-hat {
+  background: url('./img/college-hat.png') 9px center no-repeat;
+}
+
+/* Language */
+.about-body-language {
+  padding-top: 40px;
+}
+
+.language .title {
+  font-weight: bold;
+  font-size: 18px;
+  margin-right: 15px;
+  color: #3ba8c0;
+}
 
 /* Footer */
 .footer {
